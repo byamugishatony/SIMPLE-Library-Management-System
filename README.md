@@ -14,8 +14,7 @@
 | [Member 3 Full Name]    | [Student Number]   | Member          |
 | [Member 4 Full Name]    | [Student Number]   | Member          |
 
-**GitHub Repository:** [https://github.com/YourUsername/Library-Management-System](https://github.com/YourUsername/Library-Management-System)
-
+**GitHub Repository:** [https://github.com/YourUsername/Library-Management-System ] https://github.com/byamugishatony/SIMPLE-Library-Management-System
 ---
 
 ## Project Description
